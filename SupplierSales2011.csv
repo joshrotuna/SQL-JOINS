@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Date,Item Type,Sales Channel,Region,Country,Units Sold,Unit Price,Unit Cost
+960830628,2011-01-01,2011-02-18,Snacks,Offline,Asia,Brunei,9990,152.58,97.44
+443193900,2011-01-01,2011-02-15,Snacks,Online,Asia,Sri Lanka,9779,152.58,97.44
+505655038,2011-01-01,2011-02-20,Cereal,Online,Central America and the Caribbean,Cuba,3417,205.7,117.11
+931823718,2011-01-01,2011-02-02,Beverages,Offline,Europe,Montenegro,6200,47.45,31.79
+495303857,2011-01-01,2011-01-03,Personal Care,Offline,Sub-Saharan Africa,Republic of the Congo,273,81.73,56.67
+892229592,2011-01-01,2011-01-21,Clothes,Offline,Europe,San Marino,9419,109.28,35.84
+989837539,2011-01-01,2011-01-14,Clothes,Offline,Central America and the Caribbean,Cuba,3779,109.28,35.84
+688591134,2011-01-01,2011-02-09,Office Supplies,Online,Sub-Saharan Africa,Angola,8273,651.21,524.96
+836026370,2011-01-01,2011-01-15,Clothes,Online,Sub-Saharan Africa,Namibia,7636,109.28,35.84
+730113875,2011-01-01,2011-02-20,Snacks,Online,Sub-Saharan Africa,Sudan,5775,152.58,97.44
+225110995,2011-01-01,2011-01-19,Clothes,Online,Europe,Italy,4201,109.28,35.84
+734207141,2011-01-01,2011-02-19,Cereal,Offline,Australia and Oceania,East Timor,7064,205.7,117.11
+202243983,2011-01-01,2011-01-27,Household,Offline,Sub-Saharan Africa,South Sudan,7344,668.27,502.54
+994166839,2011-01-01,2011-01-12,Clothes,Offline,Middle East and North Africa,Afghanistan,4915,109.28,35.84
+773683249,2011-01-01,2011-02-05,Beverages,Offline,Asia,Tajikistan,8921,47.45,31.79
+428749454,2011-01-01,2011-02-20,Cereal,Offline,Middle East and North Africa,Lebanon,5346,205.7,117.11
+946386182,2011-01-01,2011-01-03,Cereal,Online,Asia,Singapore,5557,205.7,117.11
+143994128,2011-01-01,2011-02-15,Cereal,Online,Middle East and North Africa,Libya,9917,205.7,117.11
+933870351,2011-01-01,2011-01-07,Meat,Offline,Europe,Poland,1844,421.89,364.69
+393366611,2011-01-01,2011-01-12,Meat,Online,Asia,Kazakhstan,4776,421.89,364.69
+667770755,2011-01-01,2011-01-21,Baby Food,Offline,Middle East and North Africa,Iran,7061,255.28,159.42
+270845019,2011-01-01,2011-01-03,Snacks,Offline,Europe,Lithuania,7915,152.58,97.44
+948432815,2011-01-01,2011-01-28,Household,Online,Asia,Thailand,1201,668.27,502.54
+902698791,2011-01-01,2011-02-12,Personal Care,Online,Asia,Singapore,7487,81.73,56.67
+486881291,2011-01-01,2011-01-06,Vegetables,Offline,Asia,Sri Lanka,7849,154.06,90.93
+601216351,2011-01-01,2011-01-18,Meat,Offline,Sub-Saharan Africa,Angola,2134,421.89,364.69
+177212321,2011-01-01,2011-02-04,Household,Online,Central America and the Caribbean,Dominica,9919,668.27,502.54
+376875531,2011-01-01,2011-02-13,Cereal,Online,Asia,Tajikistan,4700,205.7,117.11
+289500749,2011-01-01,2011-01-22,Fruits,Online,Asia,Taiwan,8560,9.33,6.92
+952526080,2011-01-01,2011-01-26,Beverages,Offline,Middle East and North Africa,Bahrain,2489,47.45,31.79
+281078183,2011-01-01,2011-01-25,Beverages,Offline,Europe,Switzerland,6135,47.45,31.79
+233415544,2011-01-01,2011-02-10,Personal Care,Online,Middle East and North Africa,Qatar,1701,81.73,56.67
+195986068,2011-01-01,2011-01-29,Office Supplies,Online,Asia,South Korea,5488,651.21,524.96
+453663098,2011-01-01,2011-01-17,Clothes,Offline,Sub-Saharan Africa,Djibouti,7847,109.28,35.84
+354008519,2011-01-01,2011-02-20,Cereal,Offline,Central America and the Caribbean,Guatemala,7843,205.7,117.11
+611567533,2011-01-01,2011-01-15,Baby Food,Online,Europe,Vatican City,5278,255.28,159.42
+592911803,2011-01-01,2011-02-16,Personal Care,Offline,Sub-Saharan Africa,Mauritius ,4633,81.73,56.67
+353890502,2011-01-01,2011-01-26,Household,Offline,Sub-Saharan Africa,Rwanda,2919,668.27,502.54
+256164538,2011-01-01,2011-01-08,Fruits,Online,Australia and Oceania,Solomon Islands,3634,9.33,6.92
+804972827,2011-01-01,2011-01-26,Cosmetics,Online,Middle East and North Africa,Somalia,8203,437.2,263.33
+410093724,2011-01-01,2011-02-01,Household,Online,Europe,Slovenia,4701,668.27,502.54
+339446055,2011-01-01,2011-01-31,Beverages,Online,Australia and Oceania,Marshall Islands,8486,47.45,31.79
+738182389,2011-01-02,2011-01-24,Baby Food,Offline,Middle East and North Africa,Lebanon,3428,255.28,159.42
+831697070,2011-01-02,2011-01-17,Clothes,Online,Middle East and North Africa,Yemen,6500,109.28,35.84
+707010829,2011-01-02,2011-01-09,Cereal,Offline,Sub-Saharan Africa,Sao Tome and Principe,9070,205.7,117.11
+682097184,2011-01-02,2011-02-12,Office Supplies,Online,Europe,Croatia,6569,651.21,524.96
+416115605,2011-01-02,2011-01-31,Cosmetics,Offline,Sub-Saharan Africa,Madagascar,6709,437.2,263.33
+576184689,2011-01-02,2011-01-28,Office Supplies,Online,Europe,Hungary,4709,651.21,524.96
+852635467,2011-01-02,2011-01-10,Meat,Offline,Europe,United Kingdom,2637,421.89,364.69
+910649287,2011-01-02,2011-02-10,Office Supplies,Offline,Sub-Saharan Africa,Angola,216,651.21,524.96
+476412093,2011-01-02,2011-02-05,Office Supplies,Online,Europe,Serbia,9780,651.21,524.96
+680050551,2011-01-02,2011-01-18,Clothes,Online,Europe,Belgium,925,109.28,35.84
+702917563,2011-01-02,2011-01-10,Clothes,Offline,Sub-Saharan Africa,Mali,7782,109.28,35.84
+879595744,2011-01-02,2011-02-21,Snacks,Offline,Asia,Malaysia,782,152.58,97.44
+867079913,2011-01-02,2011-01-05,Vegetables,Online,Europe,Malta,7070,154.06,90.93
+206101214,2011-01-02,2011-01-26,Fruits,Online,Europe,Latvia,8784,9.33,6.92
+944103515,2011-01-02,2011-01-30,Household,Online,Central America and the Caribbean,The Bahamas,65,668.27,502.54
+985626256,2011-01-02,2011-02-10,Cosmetics,Offline,Sub-Saharan Africa,Kenya,7567,437.2,263.33
+736135756,2011-01-02,2011-02-19,Vegetables,Offline,Middle East and North Africa,Iraq,7784,154.06,90.93
+790292346,2011-01-02,2011-01-31,Household,Online,Sub-Saharan Africa,Mali,3922,668.27,502.54
+345349919,2011-01-02,2011-01-04,Cereal,Offline,Europe,San Marino,5570,205.7,117.11
+977321708,2011-01-02,2011-01-19,Fruits,Online,Australia and Oceania,Kiribati,66,9.33,6.92
+969017159,2011-01-02,2011-02-16,Vegetables,Online,Asia,Nepal,2566,154.06,90.93
+347396552,2011-01-02,2011-01-29,Household,Online,Europe,Spain,1215,668.27,502.54
+316224992,2011-01-02,2011-01-14,Clothes,Online,Middle East and North Africa,Afghanistan,6857,109.28,35.84
+933516299,2011-01-02,2011-02-03,Office Supplies,Online,Middle East and North Africa,Iran,7073,651.21,524.96
+825557172,2011-01-02,2011-02-14,Snacks,Online,Middle East and North Africa,Libya,9568,152.58,97.44
+700870931,2011-01-02,2011-02-05,Cosmetics,Offline,Sub-Saharan Africa,Lesotho,2138,437.2,263.33
+900298106,2011-01-02,2011-02-14,Snacks,Online,Sub-Saharan Africa,Madagascar,7071,152.58,97.44
+663441455,2011-01-02,2011-01-24,Baby Food,Offline,Central America and the Caribbean,Guatemala,5924,255.28,159.42
+202007949,2011-01-02,2011-01-27,Beverages,Offline,Europe,Georgia,7496,47.45,31.79
+164460456,2011-01-02,2011-02-09,Office Supplies,Offline,Europe,Luxembourg,6358,651.21,524.96
+204054582,2011-01-02,2011-02-21,Personal Care,Offline,Europe,Iceland,3140,81.73,56.67
+237272775,2011-01-02,2011-02-10,Cosmetics,Offline,Sub-Saharan Africa,Ethiopia,3142,437.2,263.33
+675839269,2011-01-02,2011-02-14,Cereal,Online,Europe,Slovenia,4713,205.7,117.11
+833861720,2011-01-02,2011-01-17,Clothes,Online,Asia,North Korea,7068,109.28,35.84
+991884171,2011-01-02,2011-02-08,Office Supplies,Offline,Central America and the Caribbean,Grenada,9423,651.21,524.96
+228968226,2011-01-02,2011-01-18,Fruits,Offline,Sub-Saharan Africa,Uganda,5641,9.33,6.92
+971063792,2011-01-02,2011-01-21,Baby Food,Online,Asia,Taiwan,8210,255.28,159.42
+303709161,2011-01-03,2011-01-19,Fruits,Offline,Europe,Spain,3145,9.33,6.92
+642385041,2011-01-03,2011-01-06,Snacks,Online,Central America and the Caribbean,El Salvador,4864,152.58,97.44
+652736222,2011-01-03,2011-02-22,Vegetables,Offline,Europe,Portugal,8008,154.06,90.93
+141475427,2011-01-03,2011-01-23,Baby Food,Online,Asia,Vietnam,4577,255.28,159.42
+432488667,2011-01-03,2011-01-26,Fruits,Offline,Australia and Oceania,New Zealand,1862,9.33,6.92
+257975137,2011-01-03,2011-02-04,Cosmetics,Offline,Europe,San Marino,9431,437.2,263.33
+476058042,2011-01-03,2011-01-11,Vegetables,Offline,Middle East and North Africa,Kuwait,5008,154.06,90.93
+696541631,2011-01-03,2011-02-08,Cosmetics,Offline,Middle East and North Africa,Pakistan,1002,437.2,263.33
+540565812,2011-01-03,2011-02-10,Cosmetics,Offline,Sub-Saharan Africa,Cameroon,4291,437.2,263.33
+372192180,2011-01-03,2011-01-21,Baby Food,Offline,Europe,Albania,8792,255.28,159.42
+436581933,2011-01-03,2011-01-25,Meat,Offline,Asia,Bangladesh,3151,421.89,364.69
+361722981,2011-01-03,2011-02-19,Cereal,Offline,Central America and the Caribbean,Saint Lucia,723,205.7,117.11
+476176059,2011-01-03,2011-02-06,Household,Offline,Australia and Oceania,New Zealand,9932,668.27,502.54
+428395402,2011-01-03,2011-01-28,Baby Food,Online,Sub-Saharan Africa,Zimbabwe,574,255.28,159.42
+952172029,2011-01-03,2011-01-03,Snacks,Offline,Sub-Saharan Africa,Sudan,7717,152.58,97.44
+442839848,2011-01-03,2011-01-23,Clothes,Offline,Sub-Saharan Africa,Mozambique,5007,109.28,35.84
+104163968,2011-01-03,2011-02-05,Cosmetics,Online,Sub-Saharan Africa,Cote d'Ivoire,3288,437.2,263.33
+771282565,2011-01-03,2011-02-08,Cosmetics,Offline,Sub-Saharan Africa,Mauritius ,8505,437.2,263.33
+975039041,2011-01-03,2011-02-15,Snacks,Offline,Europe,Kosovo,4574,152.58,97.44
+557292926,2011-01-03,2011-01-09,Vegetables,Offline,Asia,Uzbekistan,4216,154.06,90.93
+228850209,2011-01-03,2011-02-14,Beverages,Offline,Asia,Vietnam,717,47.45,31.79
