@@ -15,9 +15,11 @@ Examples Include:
 
 ## Launch
 **SalesOrders** 
+
 Download the SupplierSales.csv files and SalesOrders.sql file. In your SQL Client Software, create a new database connection that contains  the Supplier Sales data and execute the SalesOrders SQL Query
 
 **Skalia Database**
+
 Download the skalia_schema.sql, skalia_data.sql, and skalia.sql files
 In your SQL Client Software create a new database connection with a new database that contains the necessary files. Execute the codes contained in the .sql files (The skalia_data file will create a new database for you).
 
